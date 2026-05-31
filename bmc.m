@@ -1,5 +1,3 @@
-%% Backscatter Signal Demodulation and Image Reconstruction
-
 clear; clc; close all;
 
 %% User Parameters
